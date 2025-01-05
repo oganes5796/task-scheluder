@@ -1,0 +1,12 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    email: ogannisian5796@gmail.com
+    name: Georgy
+    url: https://github.com/oganes5796/
+  description: REST API для управления задачами в Task Scheduler.
+  title: Task Scheduler API
+  version: "1.0"
+paths: {}
+swagger: "2.0"

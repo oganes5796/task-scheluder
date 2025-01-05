@@ -1,0 +1,16 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "REST API для управления задачами в Task Scheduler.",
+        "title": "Task Scheduler API",
+        "contact": {
+            "name": "Georgy",
+            "url": "https://github.com/oganes5796/",
+            "email": "ogannisian5796@gmail.com"
+        },
+        "version": "1.0"
+    },
+    "host": "localhost:8080",
+    "basePath": "/",
+    "paths": {}
+}
